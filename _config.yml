@@ -14,11 +14,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "/fareedfauzi"
+title                    : "/OmarBadraan"
 title_separator          : "-"
-name                     : "Fareed Fauzi"
+name                     : "Omar Badraan"
 description              : "Interested in RCE and security research"
-url                      : fareedfauzi.github.io
+url                      : omarmohamedsc.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,34 +104,31 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fareed Fauzi"
+  name             : "Omar Badraan"
   avatar           : /assets/images/finn.jpg
   bio              : "Interested in RCE and security research"
-  location         : "Kuala Lumpur, MY"
-  email            : fareedradzi@gmail.com
+  location         : "Beni suef, Egypt"
+  email            : galaxybadraan@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: fareedradzi@gmail.com
+      url: galaxybadraan@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      #url: "https://fareedfauzi.github.com"
+      url: "https://omarmohamedsc.github.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/fareedfauzi_"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      #url: "https://facebook.com/fareedradzi"
+      url: "https://facebook.com/OmarMohamedBadran"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/fareedfauzi"
+      url: "https://github.com/OmarMohamedSc"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-    - label: "Linkedln"
-      icon: "fab fa-fw fa-linkedin"
-      # url: "https://www.linkedin.com/in/"
+      url: "https://instagram.com/omarbadraan"
 
 # Site Footer
 footer:
@@ -144,7 +141,7 @@ footer:
       #url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/fareedfauzi"
+      url: "https://github.com/OmarMohamedSc"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url: ""
