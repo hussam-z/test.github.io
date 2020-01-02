@@ -110,9 +110,6 @@ author:
   location         : "Beni suef, Egypt"
   email            : galaxybadraan@gmail.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: galaxybadraan@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://omarmohamedsc.github.com"
