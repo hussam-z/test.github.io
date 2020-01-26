@@ -66,7 +66,7 @@ thats why he goes to a Therapy Actually, Anyway lets get into the concept and co
     # Again, Scrape with yourself <3
   ```
   So is facebook about enough ?, no lets search another sites but how... Google Dorks
-  and [Sherlock](https://www.facebook.com/search/people/?q=Mia).. now we know everything
+  and [Sherlock](https://github.com/sherlock-project/sherlock).. now we know everything
   lets hit her up with what she loves, yes Me of course not You, you creep !.
   
   The Script does the contact thing for ya ( bot chatting is still under development )
