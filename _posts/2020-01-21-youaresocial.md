@@ -41,7 +41,7 @@ thats why he goes to a Therapy Actually, Anyway lets get into the concept and co
   def check_faces(facebookprofilelink):
       web = requests.get("yourapi/index.php?profile_link=" + facebookprofilelink)
 
-      image = face_recognition.load_image_file('./img/groups/team2.jpg')
+      image = face_recognition.load_image_file(web.text)
       face_locations = face_recognition.face_locations(image)
 
       print(f'There are {len(face_locations)} people in this image')
