@@ -14,11 +14,13 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "/OmarBadraan"
+title                    : "Jizen0x01"
 title_separator          : "-"
-name                     : "Omar Badraan"
-description              : "Interested in RCE and security research"
-url                      : https://omarmohamedsc.github.io
+name                     : "Mohamed Sami"
+description              : "CyberSec/InfoSec enthusiast.
+Interested in knowing how things work/Interested in breaking them, always learning, Reverse Engineer, Web App Pentester
+"
+url                      : https://Jizen0x01.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,25 +106,27 @@ analytics:
 
 # Site Author
 author:
-  name             : "Omar Badraan"
+  name             : "Mohamed Sami"
   avatar           : /assets/images/finn.jpg
-  bio              : "Interested in RCE and security research"
-  location         : "Beni suef, Egypt"
-  email            : galaxybadraan@gmail.com
+  bio              : "CyberSec/InfoSec enthusiast.
+Interested in knowing how things work/Interested in breaking them, always learning, Reverse Engineer, Web App Pentester
+"
+  location         : "Cairo, Egypt"
+  email            : jizen0x01@gmail.com
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://omarmohamedsc.github.com"
+      url: "https://Jizen0x01.github.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/OmarMohamedBadran"
+      url: "https://facebook.com/Jizen0x01"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/OmarMohamedSc"
+      url: "https://github.com/Jizen0x01"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/omarbadraan"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discordapp.com/users/604680303520514050"
 
 # Site Footer
 footer:
@@ -281,7 +285,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: Posts
     values:
       layout: single
       author_profile: true
@@ -294,7 +298,7 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: pages
+      type: Pages
     values:
         layout: single
         author_profile: true
