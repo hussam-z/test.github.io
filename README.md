@@ -1,1 +1,1 @@
-# Jizen0x01 Infosec Blog
+# MHZCyb3r Infosec Blog
